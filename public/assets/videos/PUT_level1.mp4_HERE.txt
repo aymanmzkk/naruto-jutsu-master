@@ -1,0 +1,3 @@
+Put your clip here as level1.mp4 (the father/son Great Fireball lesson).
+Then set the timestamps in src/game/levels/Level1/config.ts or in Settings > Video.
+Without this file, Level 1 plays the original 3D cinematic instead.

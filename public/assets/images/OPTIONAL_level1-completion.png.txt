@@ -1,0 +1,1 @@
+Optional: level1-completion.png replaces the original artwork on the JUTSU COMPLETED screen.

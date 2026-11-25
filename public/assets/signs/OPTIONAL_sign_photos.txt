@@ -1,0 +1,3 @@
+Reference images for each sign live here (snake, ram, monkey, boar, horse, tiger).
+The bundled .svg drawings are CC BY-SA 4.0 (see ATTRIBUTION.md and credits.json).
+To use your own pictures instead, replace a file and update credits.json, or capture photos in NUI LAB > Reference photos (those take priority).

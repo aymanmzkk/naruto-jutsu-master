@@ -1,0 +1,8 @@
+{
+  "snake": { "file": "snake.svg", "title": "Mudra-Naruto-Serpent.svg", "author": "Schlum", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "source": "https://commons.wikimedia.org/wiki/File:Mudra-Naruto-Serpent.svg" },
+  "ram": { "file": "ram.svg", "title": "Mudra-Naruto-Chevre.svg", "author": "Schlum", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "source": "https://commons.wikimedia.org/wiki/File:Mudra-Naruto-Chevre.svg" },
+  "monkey": { "file": "monkey.svg", "title": "Mudra-Naruto-Singe.svg", "author": "Schlum", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "source": "https://commons.wikimedia.org/wiki/File:Mudra-Naruto-Singe.svg" },
+  "boar": { "file": "boar.svg", "title": "Mudra-Naruto-Cochon.svg", "author": "Schlum", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "source": "https://commons.wikimedia.org/wiki/File:Mudra-Naruto-Cochon.svg" },
+  "horse": { "file": "horse.svg", "title": "Mudra-Naruto-Cheval.svg", "author": "Schlum", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "source": "https://commons.wikimedia.org/wiki/File:Mudra-Naruto-Cheval.svg" },
+  "tiger": { "file": "tiger.svg", "title": "Mudra-Naruto-Tigre.svg", "author": "Schlum", "license": "CC BY-SA 4.0", "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/", "source": "https://commons.wikimedia.org/wiki/File:Mudra-Naruto-Tigre.svg" }
+}

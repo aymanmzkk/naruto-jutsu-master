@@ -1,0 +1,11 @@
+node_modules
+dist
+public/mediapipe
+public/models/*.task
+public/assets/videos/*.mp4
+public/assets/videos/*.webm
+*.log
+*.tsbuildinfo
+.claude/
+.DS_Store
+Thumbs.db

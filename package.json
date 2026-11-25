@@ -1,0 +1,34 @@
+{
+  "name": "naruto-jutsu-master",
+  "private": true,
+  "version": "1.0.0",
+  "description": "NARUTO — JUTSU MASTER: gesture-controlled 3D jutsu game (Natural User Interfaces academic project)",
+  "type": "module",
+  "scripts": {
+    "postinstall": "node scripts/copy-mediapipe-wasm.mjs",
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc -b",
+    "test": "vitest run",
+    "fetch-model": "node scripts/fetch-hand-model.mjs"
+  },
+  "dependencies": {
+    "@fontsource/bebas-neue": "^5.3.0",
+    "@fontsource/noto-serif-jp": "^5.3.1",
+    "@fontsource/rajdhani": "^5.3.0",
+    "@mediapipe/tasks-vision": "^1.2.3",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1",
+    "three": "^0.187.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@types/three": "^0.187.0",
+    "@vitejs/plugin-react": "^6.3.0",
+    "typescript": "^5.9.3",
+    "vite": "^8.3.8",
+    "vitest": "^5.1.0"
+  }
+}
